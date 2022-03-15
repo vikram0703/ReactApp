@@ -1,0 +1,30 @@
+.Navbar{
+    padding: 0px 8px 0px 10px;
+    border-radius: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.Navbar-red {
+    background: red;
+}
+
+.Navbar-red:hover {
+    box-shadow: 0px 1px 5px #000;
+}
+
+.Navbar-green {
+    background: green;
+}
+
+.Navbar-green:hover {
+    box-shadow: 0px 1px 5px #000;
+}
+
+.Navbar-yellow {
+    background: yellow;
+}
+
+.Navbar-yellow:hover {
+    box-shadow: 0px 1px 5px #000;
+}
